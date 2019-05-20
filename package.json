@@ -1,0 +1,25 @@
+{
+  "name": "backend-coding-challenge",
+  "version": "1.0.0",
+  "description": "A backend coding challenge for BlushUP",
+  "main": "suggestion",
+  "scripts": {},
+  "keywords": [
+    "node.js",
+    "challenge"
+  ],
+  "author": "Adesh Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "d3": "^5.9.2",
+    "d3-dsv": "^1.1.1",
+    "elasticsearch": "^16.0.0",
+    "express": "^4.16.4",
+    "file-system": "^2.2.2",
+    "fuse-operators": "^0.1.2",
+    "jquery": "^3.4.1",
+    "lodash": "^4.17.11",
+    "node-tsv-json": "^0.2.1"
+  }
+}
